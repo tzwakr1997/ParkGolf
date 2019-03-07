@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{96D1316A-5075-9DFA-9194-A0C177593190}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BackToTitle.cs">
+    <Files>
+      <File FileName="Assets/Score.cs" Line="10" Column="32" />
+      <File FileName="Assets/Timer.cs" Line="8" Column="29" />
+      <File FileName="Assets/impact.cs" Line="24" Column="37" />
+      <File FileName="Assets/ReStart.cs" Line="11" Column="9" />
+      <File FileName="Assets/BackToTitle.cs" Line="11" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
